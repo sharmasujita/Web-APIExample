@@ -1,0 +1,16 @@
+*.dll
+*.config
+*.xml
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+*.txt
+*.eot
+*.svg
+*.ttf
+*.woff
+*.sln
+*.csproj
